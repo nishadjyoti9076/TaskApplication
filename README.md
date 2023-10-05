@@ -1,5 +1,5 @@
 # TaskApplication
-# Kotlin MVVM Patter
+# Kotlin MVVM Pattern
 # Dependency Injection ( Dagger ) 
 # Navigation Component
 # Audio Recognization
